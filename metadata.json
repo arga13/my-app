@@ -1,0 +1,5 @@
+{
+  "name": "Arduino Pseudo-code Translator",
+  "description": "A web application that translates a structured pseudo-language into complete, commented Arduino C++ code using AI.",
+  "requestFramePermissions": []
+}

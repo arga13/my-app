@@ -1,0 +1,6 @@
+# This file configures the build and deployment settings for Netlify.
+# By specifying the functions directory, we tell Netlify where to find
+# the serverless functions to deploy.
+
+[functions]
+  directory = "netlify/functions"
